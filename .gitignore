@@ -1,0 +1,15 @@
+# Chrome profile (contains login session data)
+.chrome_profile/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Debug files
+debug_screenshot.png
+
+# Excel temp files
+*.xlsx.tmp
+
+# Excel data files (user-specific)
+job_postings*.xlsx
